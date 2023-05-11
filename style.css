@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+}
+.jumbotron .rounded-circle {
+  border: 10px solid #ffd700;
+}
+.about,
+.contact {
+  background-color: #ffd700;
+}
+.myproject,
+footer {
+  background-color: #f3f4f5;
+}
+section {
+  padding-top: 5rem;
+}
